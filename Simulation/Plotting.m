@@ -89,9 +89,8 @@ title('Angular Accelerations')
 xlabel('Time [s]')
 ylabel('Alpha [deg/s^2]')
 
-% Uncomment and implement Thrust plot if required
-% figure(4)
-% plot(t, Thrust(0))
-% grid on
-% xlabel('Time [s]')
-% ylabel('Thruster Force')
+figure(4)
+plot3(PosE_S(:, 1), PosE_S(:, 2), PosE_S(:, 3))
+xlabel('Pos x[m]')
+ylabel('Pos y[m]')
+zlabel('Pos z[m]')
