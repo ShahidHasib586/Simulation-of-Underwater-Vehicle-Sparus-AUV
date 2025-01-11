@@ -71,7 +71,7 @@ This project provides a framework for the design and control of underwater robot
 
 1. Clone the repository:
    ```bash
-   git clone <[repository-url](https://github.com/ShahidHasib586/Simulation-of-Underwater-Vehicle-Sparus-AUV)>
+   git clone <(https://github.com/ShahidHasib586/Simulation-of-Underwater-Vehicle-Sparus-AUV)>
    cd <Simulation-of-Underwater-Vehicle-Sparus-AUV>
    ```
 
